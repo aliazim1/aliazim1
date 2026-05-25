@@ -2,7 +2,9 @@
 
 **`Software Developer | Mobile & Web App Developer`**
 
-Computer Science graduate from Western Michigan University with expertise in full-stack mobile & web development with React and React Native. Developed **ReadBooth**, a cross-platform social reading app featuring real-time posts, likes, comments, follows, and notifications; showcasing skills in authentication, dynamic feeds, and backend integration. Experienced in building responsive, high-performance apps and comfortable with modern web technologies.
+A passionate mobile and web developer with experience in cross-platform application development, REST APIs, UI/UX design, and state management. Developed ReadBooth, a social reading app featuring real-time functionality and live notifications, built with a responsive UI and scalable backend architecture. An agile collaborator committed to staying current with industry trends.
+
+If you're seeking a skilled React / React Native developer to breathe life into your project, I am here to collaborate. Reach out, and let's transform your vision into a reality!
 
 ---
 
